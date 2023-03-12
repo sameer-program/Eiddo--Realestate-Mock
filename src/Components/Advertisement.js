@@ -13,8 +13,8 @@ import { Link } from 'react-router-dom';
 export default function Advertisement() {
     return (
         <>
-            <div className='container itemss'>
-                <h1> Check out out featured Items </h1>
+            <div className='container items'>
+                <h1> Check out out feature </h1>
                 <div className="items row-gap-3">
                     {ItemsData.map((a) => (
                         <div className="item  position-relative">
