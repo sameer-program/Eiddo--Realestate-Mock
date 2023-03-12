@@ -8,7 +8,7 @@ export default function Banner() {
                 <div className="banner">
                     <div className="container-fluid">
                         <img src={require('../img/signature.png')} />
-                        <h1> All you need is one click away.</h1>
+                        <h1> All you need is one click y.</h1>
                         <div className="housee">
                             <ul className="dis text-white mb-lg-0">
                                 <li className="nav-item fir">
