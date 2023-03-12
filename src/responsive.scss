@@ -1,0 +1,120 @@
+@media (max-width:481px){
+    .endd{display: none;}
+    .housee{
+        ul{li{display: block;}}
+    }
+    .end{
+        .footer {
+            flex-direction: column !important;
+          }
+    }
+    .navvv{margin-left: -5rem !important;}
+    .banner{
+        h1{
+            font-size: 24px;
+        }
+        .drop{
+            
+            select{
+                display: block;
+                margin: auto;
+                margin-bottom: 10px;
+            }
+        }
+    }
+
+    .content {.cont{margin: auto;}}
+    .imfa, .specif, .ooorr, .hLL{
+        display: none;
+    }
+    .propp{ .imggg{display: none;}}
+    .remove, .form-select{
+        display: none;
+    }
+    .item{
+        margin: auto;
+    }
+    .design, .featured, .people, .agent, .price, .product, .listing, .ptwo, .pthree, .ttti, .desro, .content{
+        flex-direction: column;
+    }
+    .list{
+        li {a{display: none;}}
+    }
+    .agent{.imade{
+        display: none;
+    }}
+    .page{h1{
+        font-size: 32px;
+        text-align: center;
+    }}
+    .product{.cats{
+    display: none;
+}
+.ads{.absblog{display: none;}}
+
+}
+.blurbck{ .bh2 { font-size: 22px !important;}}
+footer{
+    flex-direction: column;
+}
+}
+
+    
+@media (min-width:481px) and (max-width:768px){
+    .housee{
+        ul{li{display: block;}}
+    }
+    .footer {
+        flex-direction: column !important;
+      }
+    .banner{
+        h1{
+            font-size: 24px;
+            text-align: center;
+        }
+    .drop{
+        
+        select{
+            display: block;
+            margin: auto;
+            margin-bottom: 10px;
+        }
+    }
+}
+.propp{ .imggg{display: none;}}
+.ads{.absblog{display: none;}}
+.imfa{
+    display: none;
+}
+.remove{
+    display: none;
+}
+.item{
+    margin: auto;
+}
+.hLL, .specif, .ooorr{
+    display: none;
+}
+.design, .featured, .people, .agent, .price, .product, .listing, .ptwo, .pthree, .ttti, .desro{
+    flex-direction: column;
+}
+.list{
+    li {a{display: none;}}
+}
+.agent{.imade{
+    display: none;
+}}
+.page{h1{
+    font-size: 30px;
+}}
+.product{.cats{
+    display: none;
+}
+}
+.propp{ .imggg{display: none;}}
+.blurbck{ .bh2 { font-size: 22px !important;}}
+}
+
+@media (min-width:768px) and (max-width:990px){
+    .propp{ .imggg{display: none;}}
+}

@@ -1,0 +1,106 @@
+@media (max-width: 481px) {
+  .housee ul li {
+    display: block;
+  }
+  .endd {
+    display: none;
+  }
+  .endd .footer {
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+        -ms-flex-direction: column !important;
+            flex-direction: column !important;
+  }
+  .banner h1 {
+    font-size: 24px;
+  }
+  .banner .drop select {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+  .imfa {
+    display: none;
+  }
+  .remove {
+    display: none;
+  }
+  .item {
+    margin: auto;
+  }
+  .design, .featured, .people, .agent, .price, .product {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .list li a {
+    display: none;
+  }
+  .agent .imade {
+    display: none;
+  }
+  .page h1 {
+    font-size: 32px;
+    text-align: center;
+  }
+  .ads {
+    display: none;
+  }
+  .product .cats {
+    display: none;
+  }
+}
+@media (min-width: 481px) and (max-width: 768px) {
+  .housee ul li {
+    display: block;
+  }
+  .footer {
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+        -ms-flex-direction: column !important;
+            flex-direction: column !important;
+  }
+  .banner h1 {
+    font-size: 24px;
+    text-align: center;
+  }
+  .banner .drop select {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+  .imfa {
+    display: none;
+  }
+  .remove {
+    display: none;
+  }
+  .hLL {
+    display: none;
+  }
+  .item {
+    margin: auto;
+  }
+  .hLL {
+    display: none;
+  }
+  .design, .featured, .people, .agent, .price, .product {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .list li a {
+    display: none;
+  }
+  .agent .imade {
+    display: none;
+  }
+  .page h1 {
+    font-size: 30px;
+  }
+  .product .cats {
+    display: none;
+  }
+}/*# sourceMappingURL=responsive.css.map */
